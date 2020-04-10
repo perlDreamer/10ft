@@ -35,7 +35,7 @@ my $counter = DateTime->new(
     second => 59,
 );
 
-open my $flourish, '>', 'flourish.csv' or
+open my $flourish, '>:encoding(UTF-8)', 'flourish.csv' or
     die "Could not open flourish.csv for writing: $!\n";
 
 ##Print header
