@@ -15,6 +15,7 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 * TODO: Nova Politte: https://www.youtube.com/watch?v=BdFUVFXWQw8
 * TODO: Frisbee Rob: https://www.youtube.com/watch?v=Gxel70oKK8M
 * TODO: Gladiator Disc Golf: https://www.youtube.com/watch?v=ng61gLE97Ic
+* TODO: Tristan Tanner: https://www.youtube.com/watch?v=40TaycvYIuw
 
 
 ### Videos *without* timing info
