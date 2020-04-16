@@ -11,6 +11,8 @@ my %user_data = ();
 
 my $data_file = shift @ARGV;
 
+my @ordered_players = ();
+
 open my $user_data, '<', $data_file
   or die "Count not open $data_file for reading: $!\n";
 
@@ -18,6 +20,7 @@ ROW: while (my $row = $csv->getline($user_data)) {
     next ROW if $row->[0] eq '#player';
     next if scalar @{ $row } <= 1;
     my ($name, undef, @lengths) = @{ $row };  ##Toss starts throwing data
+    push @ordered_players, $name;
     $user_data{$name} = \@lengths;
 }
 close $user_data;
@@ -50,7 +53,7 @@ use Clone qw/clone/;
 use JSON qw//;
 
 ##Process data
-foreach my $golfer (sort keys %user_data) {
+foreach my $golfer (@ordered_players) {
     say $golfer;
     my @flourish_data = ($golfer);
     my $golfer_data = clone $user_data{$golfer};  ##Keep the original, just in case

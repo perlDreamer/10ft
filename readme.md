@@ -11,6 +11,7 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 * Disc Golf with Brady (/u/theexistentialfox): https://www.youtube.com/watch?v=qYkntxIMUwk
 * Andrew Preznell: https://www.youtube.com/watch?v=eb_2HcXgRrg
 * Oskari Vikström: https://www.youtube.com/watch?v=Fg5I1HshLzs
+* Paul McBeth 2.0: https://www.youtube.com/watch?v=4L3eQCXOMRI
 * TODO: dB Disc Golf (5min challenge): https://www.youtube.com/watch?v=1sXnG6kfMoE
 * TODO: Nova Politte: https://www.youtube.com/watch?v=BdFUVFXWQw8
 * TODO: Frisbee Rob: https://www.youtube.com/watch?v=Gxel70oKK8M
