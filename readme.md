@@ -18,6 +18,7 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 * TODO: Frisbee Rob: https://www.youtube.com/watch?v=Gxel70oKK8M
 * TODO: Gladiator Disc Golf: https://www.youtube.com/watch?v=ng61gLE97Ic
 * TODO: Tristan Tanner: https://www.youtube.com/watch?v=40TaycvYIuw
+* TODO: liBIRDIE Boys: https://www.youtube.com/watch?v=Dwnd8OoM9Ak
 
 
 ### Videos *without* timing info
