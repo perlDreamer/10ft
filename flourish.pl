@@ -59,7 +59,8 @@ foreach my $golfer (@ordered_players) {
     my $golfer_data = clone $user_data{$golfer};  ##Keep the original, just in case
     say JSON::to_json($golfer_data, {pretty => 1, });
     my $distance = 0;
-    foreach my $instant (@seconds_countdown) {
+    INSTANT: foreach my $instant (@seconds_countdown) {
+        last INSTANT unless $golfer_data->[0];
         say "$instant == ".$golfer_data->[0]." $distance";
         if ($golfer_data->[0] eq $instant) {
             say $distance;
