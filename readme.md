@@ -14,10 +14,8 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 * Paul McBeth 2.0: https://www.youtube.com/watch?v=4L3eQCXOMRI
 * Nick Carl: https://www.youtube.com/watch?v=4L3eQCXOMRI
 * Nova Politte: https://www.youtube.com/watch?v=BdFUVFXWQw8
-* TODO: dB Disc Golf (5min challenge): https://www.youtube.com/watch?v=1sXnG6kfMoE
 * Frisbee Rob: https://www.youtube.com/watch?v=Gxel70oKK8M
-* TODO: Gladiator Disc Golf: https://www.youtube.com/watch?v=ng61gLE97Ic
-* TODO: Tristan Tanner: https://www.youtube.com/watch?v=40TaycvYIuw
+* Tristan Tanner: https://www.youtube.com/watch?v=40TaycvYIuw
 * TODO: liBIRDIE Boys: https://www.youtube.com/watch?v=Dwnd8OoM9Ak
 * TODO: Kimberly Giannola: https://www.youtube.com/watch?v=ADvUUoTvDQQ
 
@@ -32,6 +30,7 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 * Bradley Williams: https://www.youtube.com/watch?v=BpbUVdQNIbc
 * Nick Carroll: https://www.youtube.com/watch?v=--za2ktaDb4
 * Garry Patton: https://www.youtube.com/watch?v=sThbzbwyz6A
+* Gladiator Disc Golf: https://www.youtube.com/watch?v=ng61gLE97Ic
 
 
 ### Plotting
