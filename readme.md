@@ -18,6 +18,7 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 * Tristan Tanner: https://www.youtube.com/watch?v=40TaycvYIuw
 * TODO: liBIRDIE Boys: https://www.youtube.com/watch?v=Dwnd8OoM9Ak
 * TODO: Kimberly Giannola: https://www.youtube.com/watch?v=ADvUUoTvDQQ
+* TODO: Nick Carroll: https://www.youtube.com/watch?v=nJVz7_XDTes
 
 
 ### Videos *without* timing info
