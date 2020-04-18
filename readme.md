@@ -16,9 +16,7 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 * Nova Politte: https://www.youtube.com/watch?v=BdFUVFXWQw8
 * Frisbee Rob: https://www.youtube.com/watch?v=Gxel70oKK8M
 * Tristan Tanner: https://www.youtube.com/watch?v=40TaycvYIuw
-* TODO: liBIRDIE Boys: https://www.youtube.com/watch?v=Dwnd8OoM9Ak
 * TODO: Kimberly Giannola: https://www.youtube.com/watch?v=ADvUUoTvDQQ
-* TODO: Nick Carroll: https://www.youtube.com/watch?v=nJVz7_XDTes
 
 
 ### Videos *without* timing info
@@ -32,6 +30,8 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 * Nick Carroll: https://www.youtube.com/watch?v=--za2ktaDb4
 * Garry Patton: https://www.youtube.com/watch?v=sThbzbwyz6A
 * Gladiator Disc Golf: https://www.youtube.com/watch?v=ng61gLE97Ic
+* liBIRDIE Boys: https://www.youtube.com/watch?v=Dwnd8OoM9Ak
+* Nick Carroll: https://www.youtube.com/watch?v=nJVz7_XDTes
 
 
 ### Plotting
