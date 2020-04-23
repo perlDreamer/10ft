@@ -1,5 +1,9 @@
 plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 
+### Videos to check for timing info/distance info
+
+* TODO: Kimberly Giannola: https://www.youtube.com/watch?v=ADvUUoTvDQQ
+* TODO: Zach Arlinghaus: https://www.youtube.com/watch?v=Rn-gvr-89y8
 
 ### Videos with timing info
 
@@ -16,7 +20,6 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 * Nova Politte: https://www.youtube.com/watch?v=BdFUVFXWQw8
 * Frisbee Rob: https://www.youtube.com/watch?v=Gxel70oKK8M
 * Tristan Tanner: https://www.youtube.com/watch?v=40TaycvYIuw
-* TODO: Kimberly Giannola: https://www.youtube.com/watch?v=ADvUUoTvDQQ
 
 
 ### Videos *without* timing info
